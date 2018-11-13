@@ -8,4 +8,4 @@ tags:
 ---
 # Welcome
 
-Visit the blog for mud run tips, training and gear recommendations.
+Visit the blog for obstacle course racing tips, mud run training and gear recommendations.
