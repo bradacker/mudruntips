@@ -1,6 +1,6 @@
 ---
 title: Training for a Mud Run 101
-date: 2019-01-01T00:00:00.000Z
+date: 2014-04-30T23:00:00.000Z
 summary: >-
   Mud Run Training is designed to ready rivals for both the conditioning and
   strength elements that make up mud runs. Mud Runs race are available in a
