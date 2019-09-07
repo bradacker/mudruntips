@@ -1,6 +1,6 @@
 ---
 title: How to Prepare for a Mud Run
-date: 2013-06-09T23:00:00.000Z
+date: 2013-05-25T23:00:00.000Z
 summary: >-
   How to prepare for a mud run race is the question many people are asking as
   this kind of sport has become a craze nowadays. These obstacle races have been
