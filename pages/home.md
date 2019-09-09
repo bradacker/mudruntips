@@ -6,6 +6,6 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome
+## Welcome to Mud Run Tips
 
-Visit the blog for obstacle course racing tips, mud run training and gear recommendations.
+Visit the [blog](https://mudruntips.com/blog/) for obstacle course racing tips, mud run training and gear recommendations.
