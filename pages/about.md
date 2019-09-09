@@ -6,11 +6,9 @@ navtitle: About
 tags:
   - nav
 ---
-Welcome to Mud Run Tips, the number one source to help you succeed in winning (or surviving) a obstacle course race.
+Welcome to Mud Run Tips, the number one source to help you succeed in winning (or surviving) a obstacle course race. This site is still fresh, so come back soon.
 
-This site is still fresh, so come back soon.
-
-## Disclosure: 
+## Disclosure:
 
 We are compensated by some or all of the websites we recommend, and this compensation may impact the recommendations we make. The findings, interpretations, and conclusions expressed are entirely those of the authors of each article. We only recommend companies that maintain the highest standards, and whom we have thoroughly vetted.
 
@@ -26,13 +24,13 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does not contain any content which might present a conflict of interest.
 
-###  –
+### –
 
 ### Your Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Google Adsense and the DoubleClick DART Cookie
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, MudRunTips.com has no access or control over these cookies that may be used by third party advertisers.
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>. Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, MudRunTips.com has no access or control over these cookies that may be used by third party advertisers.
 
 ### Collection of Personal Information
 
